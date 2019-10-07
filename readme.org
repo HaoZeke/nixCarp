@@ -1,3 +1,0 @@
-* About
-I worry about using my own configuration for teaching carpentries workshops.
-So I set up my own little nix derivation to contain only what most other participants will have.
